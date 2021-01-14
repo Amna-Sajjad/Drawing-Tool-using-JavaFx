@@ -1,5 +1,5 @@
 # Drawing-Tool-using-JavaFx
-This application is saimple and have only limited options
+This application is simple and have only limited options
 Its has 4 basic shapes i.e. line, eclipse, rectangle and rounded rectangle
 It also has text option through which we can write text on canvas
 There is new Canvas option, Exit option, eraser option and all clear option
